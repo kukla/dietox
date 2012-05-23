@@ -65,7 +65,7 @@ using the Ruby logger class from inside your controllers. Example:
     end
   end
 
-The result will be a message in your log file along the lines of:
+The result will be a messa asdge in your log file along the lines of:
 
   Mon Oct 08 14:22:29 +1000 2007 Destroyed Weblog ID #1!
 
